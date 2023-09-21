@@ -1,7 +1,7 @@
 <!-- Banner SAE -->
 <div align="center">
-	<img height="200px" src="public/img/logo_green_2023.png" alt="Logo SENA"/>
-  <img height="200px" src="public/img/logo.jpg" alt="Logo SAGA"/>
+	<img height="200px" src="https://drive.google.com/file/d/1neZkjzpHVt8Rt5AT5I8Kyzkd7HZiE4uH/view?usp=sharing" alt="Logo SENA"/>
+  <img height="200px" src="https://drive.google.com/file/d/1wCqVLabf24ayr9u_xPwwt1ZTYRG4q8l1/view?usp=sharing" alt="Logo SAE"/>
 </div>
 <br>
 <div align="center">
@@ -29,17 +29,17 @@
 <!-- Información principal -->
 # SAE
 
-SAGA es un sistema diseñado para mejorar la administración de pequeñas y grandes empresas
+SAE es un sistema diseñado para mejorar la administracion de pequeñas y grandes empresas
 
 <!-- Stack utilizado -->
 ## Tech Stack
 
-*Client:* <br>
+**Client:** <br>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" width="40" height="40"/></a>
 <a href="https://es.redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 
-*Server:* <br>
+**Server:** <br>
 <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/express-fashion-stores.svg" alt="Express" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="MySql" width="45" height="40"/></a>
@@ -63,71 +63,71 @@ SAGA es un sistema diseñado para mejorar la administración de pequeñas y gran
   Estando acá instalamos las dependencias de yarn/npm
 </p>
 
-bash
+```bash
   yarn install
-
+```
 <br>
 
-*Development*
+**Development**
 <p>
   Si se utiliza en desarrollo utilizaremos:
 </p>
 
-bash
+```bash
   yarn dev
-
+```
 
 <div align="center">
-	<img src="../public/img/backend_dev.png" alt="Backend running"/>
+	<img src="https://drive.google.com/file/d/1cYah0sEch8cGbWfQTZTDfq2ksPeIa8MK/view?usp=sharing" alt="Backend running"/>
 </div>
 
 <br>
 
-*Production*
+**Production**
 <p>
   Y para producción utilizaremos:
 </p>
 
-bash
+```bash
   yarn star
-
+```
 ---
 ### 💻Front-end
 <p>
-  Para ejecutar la vista entraremos al directorio raíz del <a href="../public/img/frontend_dev.png">frontend</a> 
+  Para ejecutar la vista entraremos al directorio raíz del <a href="./public/img/frontend_dev.png">frontend</a> 
 </p>
 
 <p>
   Estando acá instalamos las dependencias de yarn/npm acá utilizamos <a href="https://vitejs.dev/">vite</a>
 </p>
 
-bash
+```bash
   npm install
-
+```
 <br>
 
-*Development*
+**Development**
 <p>
   Si se utiliza en desarrollo utilizaremos:
 </p>
 
-bash
+```bash
   npm run dev
-
+```
 <div align="center">
-	<img src="./public/img/frontend_dev.png" alt="Backend running"/>
+	<img src="https://drive.google.com/file/d/1cYah0sEch8cGbWfQTZTDfq2ksPeIa8MK/view?usp=sharing" alt="Backend running"/>
 </div>
 
 <br>
 
-*Production*
+**Production**
 <p>
   Y para producción utilizaremos:
 </p>
 
-bash
+```bash
   npm run deploy
-
+```
 
 
 <!-- Autores del proyecto -->
@@ -145,4 +145,4 @@ bash
 
 [Documentación v1.9](https://docs.google.com/document/d/1Savy7Rl1RXcVc7oTE73I-Ue3_nd-7G1Z/edit?usp=sharing&ouid=102635390576364738500&rtpof=true&sd=true)
 
-Hecho con :heart: y JavaScript.
+Hecho con :heart: y JavaScript.
